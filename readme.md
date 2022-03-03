@@ -42,7 +42,7 @@ To run the tests:
 ```
 "scripts": {
     "dev": "./jake.sh karma & ./watch.sh loose=true"
-  },
+  },  
 
 ```
 Note: No change needed for Windows Environment
